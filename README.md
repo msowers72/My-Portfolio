@@ -15,8 +15,9 @@
 <msowers72@yahoo.com>
 
 ## Description:
-I'm a Web Developer with a background in the Financial Services Industry and a life-long
-dedication to learning. This portfolio is a compilation of my 
+Web Developer with a background in the Financial Services Industry and a life-long
+dedication to learning. This portfolio is a compilation of various projects, languages and
+technologies I have worked on.
 
 
 
@@ -26,7 +27,7 @@ dedication to learning. This portfolio is a compilation of my
 <!-- ![Tux, the Linux mascot](https://img.shields.io/badge/License-MIT-green) -->
   
  ## Deployed
- [Budget-Tracker Link](https://immense-bastion-84166.herokuapp.com/)
+ [Portfolio](https://immense-bastion-84166.herokuapp.com/)
  
  
  ![images](./assets/total.png) 
