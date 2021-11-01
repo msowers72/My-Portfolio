@@ -27,10 +27,11 @@ technologies I have worked on.
 <!-- ![Tux, the Linux mascot](https://img.shields.io/badge/License-MIT-green) -->
   
  ## Deployed
- [Portfolio](https://immense-bastion-84166.herokuapp.com/)
+ [Portfolio](https://msowers72.github.io/My-Portfolio/)
+ [Resume](https://docs.google.com/document/d/1GWyggTYIVXkvxL-7tZ3a3xcRByJKM0rZtsjx3X71f8I/edit?usp=sharing)
  
  
- ![images](./assets/total.png) 
+ ![images](./assets/project.png) 
  
 
 
