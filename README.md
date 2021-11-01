@@ -31,7 +31,7 @@ technologies I have worked on.
  [Resume](https://docs.google.com/document/d/1GWyggTYIVXkvxL-7tZ3a3xcRByJKM0rZtsjx3X71f8I/edit?usp=sharing)
  
  
- ![images](./assets/project.png) 
+ ![images](./assets/project.PNG) 
  
 
 
